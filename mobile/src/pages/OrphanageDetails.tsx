@@ -245,7 +245,7 @@ const styles = StyleSheet.create({
 
   scheduleTextRed: {
     color: '#FF669D'
-  }
+  },
 
   contactButton: {
     backgroundColor: '#3CDC8C',

@@ -26,7 +26,7 @@ export default function Routes() {
           component= {OrphanagesMap} />
 
         <Screen 
-          name="" 
+          name="OrphanageDetails" 
           component= {OrphanageDetails} 
           options={{
             headerShown: true,
